@@ -35,5 +35,9 @@ Designed with **polymorphism** and **extensibility** in mind.
 ### 2. Install dependencies
 ```bash
 pip install -r requirements.txt
-pytest
+```
 
+### 3. Run tests
+```bash
+pytest
+```
