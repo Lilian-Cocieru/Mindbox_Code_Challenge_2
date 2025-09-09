@@ -1,0 +1,9 @@
+[
+  "tests/test_circle.py::test_circle_area",
+  "tests/test_circle.py::test_circle_invalid_radius",
+  "tests/test_shapes_polymorphism.py::test_shapes_area_polymorphism",
+  "tests/test_triangle.py::test_triangle_area",
+  "tests/test_triangle.py::test_triangle_invalid_sides",
+  "tests/test_triangle.py::test_triangle_is_right",
+  "tests/test_triangle.py::test_triangle_not_right"
+]
